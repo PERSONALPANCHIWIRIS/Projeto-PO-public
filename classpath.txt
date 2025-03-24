@@ -1,0 +1,3 @@
+:090/hva-core/hva-core.jar:090/hva-app/hva-app.jar:usr/share/java/po-uilib/po-uilib.jar:090/po-uilib/po-uilib.jar
+
+java -Dimport=test.import -Din=test.in -Dout=test.out hva.app.App
